@@ -2,7 +2,7 @@
  * ============================================================
  *  MPPT Solar Charge Controller
  *  Algorithm: Perturb & Observe (P&O)
- *  Author   : ELAZZAOUI Toufik & CHANAOUI Slimane
+ *  Author   : ELAZZAOUI Toufik 
  *  University: Elhadj Mossa Ag Akhamok - Tamanrasset
  *  Year     : 2023
  * ============================================================
