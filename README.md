@@ -27,7 +27,10 @@ A practical and efficient Maximum Power Point Tracking controller designed to ma
 *Tawfiq Elazzaoui*  
 Electrical Engineer | Field Operations & Diagnostics | ETAP | SAP | Power Systems  
 [LinkedIn](https://linkedin.com/in/tawfiq-elazzaoui)  | - [Email](mailto:toufikelazzaoui08@gmail.com)
+##  Demo Video
+[![Watch Demo](https://img.youtube.com/vi/1m0clR46BKo/0.jpg)](https://youtube.com/shorts/1m0clR46BKo)
 
+> MPPT Solar Charge Controller working demo - P&O Algorithm in action
 ---
 
 *Passionate about innovation in renewable energy and industrial electrical systems.*
