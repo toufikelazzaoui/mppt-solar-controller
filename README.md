@@ -31,6 +31,7 @@ Electrical Engineer | Field Operations & Diagnostics | ETAP | SAP | Power System
 [![Watch Demo](https://img.youtube.com/vi/1m0clR46BKo/0.jpg)](https://youtube.com/shorts/1m0clR46BKo)
 
 > MPPT Solar Charge Controller working demo - P&O Algorithm in action
+> [![MPPT Solar Charge Controller - P&O Algorithm Demo](https://img.youtube.com/vi/1m0c1R46BKo/hqdefault.jpg)](https://youtu.be/1m0c1R46BKo)
 ---
 
 *Passionate about innovation in renewable energy and industrial electrical systems.*
